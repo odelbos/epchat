@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:odelbos/back-epchat.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:odelbos/front-epchat.git
